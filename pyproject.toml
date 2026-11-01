@@ -1,0 +1,5 @@
+[project]
+name = "gemma4-react-streamlit-chatbot"
+version = "1.0.0"
+requires-python = ">=3.10"
+description = "React chatbot hosted in Streamlit with Ollama Cloud streaming"
